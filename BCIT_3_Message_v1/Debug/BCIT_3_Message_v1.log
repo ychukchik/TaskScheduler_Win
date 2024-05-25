@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Univer_files\6sem\BCIT\3\share_folder\BCIT_3_Message_v1\Source.cpp(16,26): error C3083: filesystem: символ слева от "::" должен представлять тип
+D:\Univer_files\6sem\BCIT\3\share_folder\BCIT_3_Message_v1\Source.cpp(16,38): error C2039: "path": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : см. объявление "std"
+D:\Univer_files\6sem\BCIT\3\share_folder\BCIT_3_Message_v1\Source.cpp(16,42): error C3861: path: идентификатор не найден
